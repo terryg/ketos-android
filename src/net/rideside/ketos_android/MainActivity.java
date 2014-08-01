@@ -17,8 +17,8 @@ public class MainActivity extends Activity {
      * Register your here app https://dev.twitter.com/apps/new and get your
      * consumer key and secret
      * */
-    static String TWITTER_CONSUMER_KEY = "LsCQaPOwd8k7WkyRFRZF4Q";
-    static String TWITTER_CONSUMER_SECRET = "KJbJu5IQrlwxW7Cwnax3mMzAc4j3n6Wd2dG125srgk";
+    static String TWITTER_CONSUMER_KEY = "";
+    static String TWITTER_CONSUMER_SECRET = "";
  
     // Preference Constants
     static String PREFERENCE_NAME = "twitter_oauth";
